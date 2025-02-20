@@ -1,0 +1,47 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    color:black;
+  }
+  body {
+    background-color: white;
+  }
+  body.login-body {
+    background-color: #211328;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+  .top-nav {
+    margin-bottom: 40px;
+    background-color:black;
+    padding: 20px 0;
+  }
+  .top-nav a {
+    color: #fff;
+  }
+  .nav-link {
+    font-weight: 500;
+  }
+  .navbar-nav {
+    margin-right: 20px;
+  }
+  .footer {
+    padding: 40px 0;
+  }
+  .border-line {
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+  }
+  .dsb-panel {
+    float: right;
+  }
+  .footer-copyright {
+    background: black;
+    color: white;
+  }
